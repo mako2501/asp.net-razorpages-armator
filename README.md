@@ -1,7 +1,7 @@
 "# asp.net-razorpages-armator" 
 Aplikacja ASP.NET Core 7.0 w Razor Pages
 
-Rafał MAKOWSKI gd14798
+Rafał MAKOWSKI gd14798 grupa INMN2 WSB
 
 Aplikacja pozwala na tworzenie statków morskich (kilku ich parametrów) oraz portów morskich (miejscowości)
 
